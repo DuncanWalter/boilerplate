@@ -1,2 +1,3 @@
 # boilerplate
-Boilerplate for a modern web stack
+
+Some general purpose snippets for frontend development
